@@ -24,5 +24,14 @@ def calculate_product(a, b):
     print(f"Product of {a} and {b} is: {result}")
     return result
 
+def calculate_division(a, b):
+    """Calculate division of two numbers"""
+    if b == 0:
+        print("Error: Division by zero!")
+        return None
+    result = a / b
+    print(f"Division of {a} by {b} is: {result}")
+    return result
+
 if __name__ == "__main__":
     main()
