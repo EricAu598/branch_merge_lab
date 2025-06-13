@@ -1,0 +1,9 @@
+{
+  "app_name": "Branch Merge Lab",
+  "version": "1.0.0",
+  "author": "Git Learning Lab",
+  "settings": {
+    "debug": false,
+    "log_level": "INFO"
+  }
+}
