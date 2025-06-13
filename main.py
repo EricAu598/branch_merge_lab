@@ -6,7 +6,7 @@ Main application file for the Branch Merge Lab
 def main():
     """Main function"""
     print("Welcome to Branch Merge Lab!")
-    print("This is the initial version on main branch")
+    print("This is the UPDATED MAIN BRANCH version")
     
     # Basic functionality
     calculate_sum(5, 3)
