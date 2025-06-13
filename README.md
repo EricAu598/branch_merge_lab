@@ -17,3 +17,10 @@ Each scenario is demonstrated in separate branches. Follow the instructions in e
 ## Initial Setup
 
 This is the main branch with the initial project structure.
+
+## Usage
+
+Run the main script:
+```bash
+python main.py
+```
