@@ -4,6 +4,7 @@
   "author": "Git Learning Lab",
   "settings": {
     "debug": false,
-    "log_level": "INFO"
+    "log_level": "INFO",
+    "enable_division": true
   }
 }
